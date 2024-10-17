@@ -1,4 +1,3 @@
-title: Andriana - Bilali date: 20241017 joined_date: 20241017 category: members member_category: Researchers id: a_bilali givenname: Andriana surname: Bilali email: t8220100@aueb.gr photo: andribilali.jpg
 title: Andriana - Bilali
 date: 20241017
 joined_date: 20241017

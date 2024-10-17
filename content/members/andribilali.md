@@ -7,6 +7,6 @@ id: a_bilali
 givenname: Andriana
 surname: Bilali
 email: t8220100@aueb.gr
-photo: andribilali.jpg
+photo: andribilali.jpg 
 
-Andriana Bilali is an undergraduate student at the Department of Management Science & Technology at Athens University of Economics and Business.
+Andriana Bilali is an undergraduate student at the Department of Management Science and Technology, Athens University of Economics and Business.
